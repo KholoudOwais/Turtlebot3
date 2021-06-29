@@ -3,19 +3,19 @@
 
 * Install :
   1. Install Dependent ROS 1 Packages
-    - $ sudo apt-get install ros-kinetic-joy ros-kinetic-teleop-twist-joy \
-        ros-kinetic-teleop-twist-keyboard ros-kinetic-laser-proc \
-        ros-kinetic-rgbd-launch ros-kinetic-depthimage-to-laserscan \
-        ros-kinetic-rosserial-arduino ros-kinetic-rosserial-python \
-        ros-kinetic-rosserial-server ros-kinetic-rosserial-client \
-        ros-kinetic-rosserial-msgs ros-kinetic-amcl ros-kinetic-map-server \
-        ros-kinetic-move-base ros-kinetic-urdf ros-kinetic-xacro \
-        ros-kinetic-compressed-image-transport ros-kinetic-rqt* \
-        ros-kinetic-gmapping ros-kinetic-navigation ros-kinetic-interactive-markers
+    - $ sudo apt-get install ros-melodic-joy ros-melodic-teleop-twist-joy
+    - $ sudo apt-get install ros-melodic-teleop-twist-keyboard ros-melodic-laser-proc
+    - $ sudo apt-get instal ros-melodic-rgbd-launch ros-melodic-depthimage-to-laserscan
+    - $ sudo apt-get instal ros-melodic-rosserial-arduino ros-melodic-rosserial-python
+    - $ sudo apt-get instal ros-melodic-rosserial-server ros-melodic-rosserial-client
+    - $ sudo apt-get instal ros-melodic-rosserial-msgs ros-melodic-amcl ros-melodic-map-server
+    - $ sudo apt-get instal ros-melodic-move-base ros-melodic-urdf ros-melodic-xacro
+    - $ sudo apt-get instal ros-melodic-compressed-image-transport ros-melodic-rqt*
+    - $ sudo apt-get instal ros-melodic-gmapping ros-melodic-navigation ros-melodic-interactive-markers
   2. Install TurtleBot3 Packages
-    - $ sudo apt-get install ros-kinetic-dynamixel-sdk
-    - $ sudo apt-get install ros-kinetic-turtlebot3-msgs
-    - $ sudo apt-get install ros-kinetic-turtlebot3
+    - $ sudo apt-get install ros-melodic-dynamixel-sdk
+    - $ sudo apt-get install ros-melodic-turtlebot3-msgs
+    - $ sudo apt-get install ros-melodic-turtlebot3
 
 
 * Launch :
