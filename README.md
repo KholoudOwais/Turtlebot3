@@ -31,6 +31,8 @@
   4. Save Map
     - $ rosrun map_server map_saver -f ~/map
 
+<img src="Demo.jpeg"/>
+
 
 ## Faced Problems : 
   I faced a problem to run the gazebo and I fixed it by using this command : 
