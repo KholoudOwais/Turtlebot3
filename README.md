@@ -31,7 +31,7 @@
   4. Save Map
     - $ rosrun map_server map_saver -f ~/map
 
-<img src="Demo.jpeg"/>
+<img src="map2.pgm"/>
 
 
 ## Faced Problems : 
