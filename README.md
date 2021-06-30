@@ -31,7 +31,7 @@
   4. Save Map
     - $ rosrun map_server map_saver -f ~/map
 
-<img src="map2.png"/>
+<img src="burger_map.png"/>
 
 
 ## Faced Problems : 
