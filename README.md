@@ -34,7 +34,7 @@
 <img src="burger_map.png"/>
 
 
-## Faced Problems : 
+## Problems : 
   I faced a problem to run the gazebo and I fixed it by using this command : 
   - $ echo "export SVGA_VGPU10=0" >> ~/.bashrc
   - $ source ~/.bashrc
